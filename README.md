@@ -1,5 +1,5 @@
 # Basic Character Recognition Tutorial
-The basic character recognition tutorial demonstrates how to extract isolated characters/digits from the images using the __[scikit-image](http://scikit-image.org/)__ library which is an image processing in python and predict the image using the __[scikit-learn](http://scikit-learn.org/)__, machine learning in python, to classify and predict the isolated character/digit images.
+The basic character recognition tutorial demonstrates how to extract isolated characters/digits from the images using the __[scikit-image](http://scikit-image.org/)__ library which is an image processing in Python and predict the image using the __[scikit-learn](http://scikit-learn.org/)__, machine learning in Python, to classify and predict the isolated character/digit images.
 
 ## Objectives  
 - Coding a basic character recognition program using Python programming language.
