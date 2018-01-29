@@ -1,2 +1,2 @@
-# basic-character-recognition
+# Basic Character Recognition
 Character Recognition
