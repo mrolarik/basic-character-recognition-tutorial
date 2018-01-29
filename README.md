@@ -26,6 +26,7 @@ The basic character recognition tutorial demonstrates how to extract isolated ch
 - matplotlib
 
 ## install the library through pip
+```pip``` is a package management system used to install and manage software packages written in Python.
 ```
 $ sudo pip install scikit-image
 $ sudo pip install -U scikit-learn
