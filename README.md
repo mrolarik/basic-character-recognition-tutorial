@@ -25,3 +25,12 @@ The basic character recognition tutorial demonstrates how to extract isolated ch
 - numPy
 - matplotlib
 
+## install the library through pip
+```
+$ sudo pip install scikit-image
+$ sudo pip install -U scikit-learn
+$ sudo pip install matplotlib
+$ sudo pip install numpy
+$ sudo pip install scipy
+$ sudo pip install matplotlib
+```
