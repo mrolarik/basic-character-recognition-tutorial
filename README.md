@@ -17,3 +17,11 @@ The basic character recognition tutorial demonstrates how to extract isolated ch
 - [Create the MLP classifier model and tuning parameters using the grid search techniques](https://github.com/mrolarik/basic-character-recognition/blob/master/005-Neural-Network-Multi-layer-perceptron.ipynb)
 - [Create the SVM classifier model and tuning parameters using the grid search techniques](https://github.com/mrolarik/basic-character-recognition/blob/master/006-support-vector-machine.ipynb)
 - [Sample MNIST dataset](https://github.com/mrolarik/basic-character-recognition/blob/master/007-Sample-MNIST-dataset.ipynb)
+
+## The Necessary Python Libraries
+- scikit-image
+- scikit-learn
+- sciPy
+- numPy
+- matplotlib
+
